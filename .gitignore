@@ -8,6 +8,10 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+# My modifications
+CMakeLists.txt
+.idea/
+
 # AWS User-specific
 .idea/**/aws.xml
 
